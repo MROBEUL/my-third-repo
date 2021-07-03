@@ -1,32 +1,41 @@
-h1{
+h1{width: 700px;
+    height: auto;
     background-color: green;
+    background-position: center;
     color: yellow;
     font-size: 30px;
     font-family:'Courier New', Courier, monospace ;
     text-align: center;
-    display: inline-block;
+    display: block;
     
 }
 h2{
+    width: 700px;
+    height: auto;
     background: blue;
+    background-position: center;
     color: red;
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    display: inline-block;
+    display: block;
 }
 img{
     width: 700px;
     height: 400px;
     border: cornflowerblue;
     border: 5px;
-    display: inline-block;
+    background-position: center;
+    display: block;
 }
 h3{
+    width: 700px;
+    height: auto;
     color: darkturquoise;
     background-color: fuchsia;
+    background-position: center;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    display: inline-block;
+    display: block;
 }
